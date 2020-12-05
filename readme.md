@@ -34,7 +34,7 @@
       xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
       xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
       xmlns:local="using:DrawingApp"
-      xmlns:d="https://schemas.microsoft.com/expression/blend/2008?WT.mc_id=dotnet-0000-machiy"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
       xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
       mc:Ignorable="d">
     <Page.BottomAppBar>
@@ -119,7 +119,7 @@ UWP のインク機能を使用してお絵かき機能を追加します。
       xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
       xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
       xmlns:local="using:DrawingApp"
-      xmlns:d="https://schemas.microsoft.com/expression/blend/2008?WT.mc_id=dotnet-0000-machiy"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
       xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
       mc:Ignorable="d">
     <Page.BottomAppBar>
@@ -253,7 +253,7 @@ namespace DrawingApp
       xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
       xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
       xmlns:local="using:DrawingApp"
-      xmlns:d="https://schemas.microsoft.com/expression/blend/2008?WT.mc_id=dotnet-0000-machiy"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
       xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
       mc:Ignorable="d">
     <Page.BottomAppBar>
